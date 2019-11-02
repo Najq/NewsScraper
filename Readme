@@ -1,0 +1,14 @@
+
+This project scrapes the worldnewsdaily report website for fake news and outputs it in a csv file.
+
+--to run
+
+download scrapy dependencies
+
+in the code, change start_urls according to the link you want
+
+on command line run the following comamnd - scrapy crawl news_scraper
+
+
+
+
